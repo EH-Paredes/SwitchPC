@@ -8,9 +8,10 @@ Un relé de 5 pines
 Un transistor NPN
 Una resistencia de 1kΩ
 Cables
-*Un alimentador de 5v
 Cuenta de blynk
+*Un alimentador de 5v
 
 *El alimentador se puede conectar soldando los cables directamente con la esp32 o se puede conectar un cable tipo c (o microusb) a la placa.
+
 
 
